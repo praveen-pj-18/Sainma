@@ -5,13 +5,13 @@ Features
 User Authentication: Sign up, login, and manage user profiles with Firebase Authentication.
 Watched Movies: Track movies you’ve watched, rate them, and leave reviews.
 Watch Later: Add movies to a "watch later" list and keep track of movies you plan to watch in the future.
+
 Movie Stats: View statistics such as:
 Total number of movies in the "Watch Later" list.
 Average rating of watched movies.
 Total number of movies watched.
 Movies watched in the last 30 days and last year.
-Featured Movies: Dynamically fetch and display a list of featured movies from TMDb API (The Movie Database API).
-Responsive Design: The app is fully responsive and works across desktop and mobile screens.
+
 Technologies Used
 React.js - A JavaScript library for building user interfaces.
 Firebase - For user authentication and Firestore database for storing data.
